@@ -38,7 +38,7 @@ const int RENDER_DRAW_COLOR = 0xFF;
 #define STATE_MONEY 21
 #define STATE_TRAP 18 //19 20
 #define STATE_HEAL 23
-#define MAX_BULLET 100
+#define MAX_BULLET 40
 #define STATE_WINGAME 22
 
 typedef struct Input
