@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1653129808 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"MainObject.h"
+	"ImpTimer.h"
+	"ThreatObject.h"
+	"ExplosionObject.h"
+	"TextObject.h"
+	"PlayerPower.h"
+	"Geometric.h"
+	"Button.h"
+
+1652359123 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\baseobject.cpp
+	"BaseObject.h"
+
+1652788477 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\baseobject.h
+	"CommonFunc.h"
+
+1653129295 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\commonfunc.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<string>
+	<vector>
+
+1652500905 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\commonfunc.cpp
+	"CommonFunc.h"
+
+1653020397 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	<fstream>
+	<iostream>
+
+1652166247 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\game_map.cpp
+	"game_map.h"
+
+1653024049 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+	<vector>
+
+1653129973 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\mainobject.cpp
+	"MainObject.h"
+
+1652714202 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\imptimer.cpp
+	"ImpTimer.h"
+
+1652713706 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\imptimer.h
+	"CommonFunc.h"
+
+1653056278 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\bulletobject.cpp
+	"BulletObject.h"
+
+1653055933 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\bulletobject.h
+	"BaseObject.h"
+	"CommonFunc.h"
+
+1653129433 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\threatobject.cpp
+	"ThreatObject.h"
+
+1652502260 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\threatobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+	"BulletObject.h"
+
+1652973723 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\explosionobject.cpp
+	"ExplosionObject.h"
+
+1652973590 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\explosionobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1652583136 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\textobject.cpp
+	"TextObject.h"
+
+1652788510 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\textobject.h
+	"CommonFunc.h"
+
+1652882049 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\playerpower.cpp
+	"PlayerPower.h"
+
+1652879554 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\playerpower.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1652622511 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\geometric.cpp
+	"Geometric.h"
+
+1652622764 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\geometric.h
+	"CommonFunc.h"
+
+1653027411 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\bossobject.cpp
+	"BossObject.h"
+
+1653033357 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\bossobject.h
+	"BaseObject.h"
+	"CommonFunc.h"
+	"BulletObject.h"
+
+1653036532 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\button.cpp
+	"Button.h"
+
+1652788180 source:c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\menuobject.cpp
+
+1652972746 c:\users\latitude 5450\desktop\ltnc\project\gamesdl2demo\button.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
